@@ -1,9 +1,9 @@
-# Automatic Data Export Wizard
+# Automatic Salesforce Data Export Wizard
 
 ## Introduction
 
-This simple script extracts zipped CSV files on the [**Data Export**](https://help.salesforce.com/articleView?id=admin_exportdata.htm&type=5) feature of the Salesforce Setup.
-With this tool you can schedule a script on a local/remote server to automatically download all 512MB zipped files on the Data Export page.
+This simple script extracts zipped CSV files on the [**Salesforce Data Export**](https://help.salesforce.com/articleView?id=admin_exportdata.htm&type=5) feature of the Salesforce Setup.
+With this tool you can schedule a script on a local/remote server to automatically download all 512MB zipped files on the Salesforce Data Export page.
 
 ## Installation 
 1. Install all required modules from package: `npm install`
