@@ -21,4 +21,4 @@ password=PASSWORD+TOKEN
 ```
 
 ## Credits
-Enrico Murru 2021 - https://enree.co
+Enrico Murru 2021 - https://blog.enree.co/2021/01/automatic-export-tool-for-salesforce-data-export-backups.html
