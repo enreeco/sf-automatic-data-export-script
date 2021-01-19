@@ -1,0 +1,13 @@
+{
+  "name": "data_exporter",
+  "version": "1.0.0",
+  "dependencies": {
+    "jquery": "^3.5.1",
+    "jsdom": "^16.4.0",
+    "jsforce": "^1.10.1",
+    "request": "^2.88.2"
+  },
+  "devDependencies": {
+    "foreman": "^3.0.1"
+  }
+}
