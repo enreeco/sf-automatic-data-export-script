@@ -7,9 +7,9 @@ With this tool you can schedule a script on a local/remote server to automatical
 
 ## Installation 
 1. Install all required modules from package: `npm install`
-2. Install Foreman to run with env variables in file `.env`: `npm install -g foreman` 
+2. Install Foreman to run with env variables in file `.env`: `npm install -g foreman` or `npm install -g heroku`
 3. Rename a `.env-local` file into `.env` and set the local path, Salesforce login Url, username and password+token in the respective keys
-4. Run `nf start`
+4. Run `nf start`or `heroku local`
 
 ## Configuration
 Before running the script configure the following environment variables:
