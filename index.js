@@ -47,7 +47,7 @@ const downloadFile = function(url, cookie, index, cb){
 	  		return 1;
 		});
     })
-    .on('error', function() {
+    .on('error', function(err) {
 	    console.error(err);
 	  	return 1;
 	})
